@@ -18,7 +18,7 @@
 
 > Não! Este projeto não pode ser utilizado para fins lucrativos. Sim, para uso pessoal pode, desde que dê créditos ao seu desenvolvedor.
 
-### ⚠️ Por favor, não esqueça de dar os devidor créditos ao desenvolvedor!
+### ⚠️ Por favor, não esqueça de dar os devidos créditos ao desenvolvedor!
 
 ### ⚠️ As imagens utilizadas são de propriedas da Epic Games, todos os direitos estão reservados para os mesmos.
 
