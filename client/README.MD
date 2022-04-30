@@ -20,7 +20,7 @@
 
 ### ⚠️ Por favor, não esqueça de dar os devidos créditos ao desenvolvedor!
 
-### ⚠️ As imagens utilizadas são de propriedas da Epic Games, todos os direitos estão reservados para os mesmos.
+### ⚠️ As imagens utilizadas são de propriedades da Epic Games, todos os direitos estão reservados para os mesmos.
 
 ### ⚠️ Créditos também para os desenvolvedores dos pacotes utilizados neste projeto!
 
