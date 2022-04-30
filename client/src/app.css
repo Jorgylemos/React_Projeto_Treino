@@ -1,0 +1,74 @@
+/** Change Body Color/Image. */
+html body {
+    background-image: url('https://wallpapercave.com/wp/wp8038761.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/**--------------------------- */
+
+/** Create language container. */
+.body-pt,
+.body-eua {
+    color: white;
+    border-radius: 20px;
+    background-color: rgba(27, 15, 6, 0.733);
+    padding: 90px;
+}
+
+/** Push text to side. */
+.body-pt .presentation-pt,
+.body-eua .presentation-eua {
+    margin-left: 50px;
+}
+
+/**--------------------------- */
+
+/** Container background image. */
+.bg-image {
+    background-image: url('https://wallpapercave.com/wp/wp8038792.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding: 50px;
+}
+
+/** Container background text. */
+.bg-image h3 {
+    text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/**--------------------------- */
+
+/** Cards hover (Scale). */
+.image-hover {
+    transform: scale(1.15);
+    box-shadow: 5px 5px 7px black;
+}
+
+.image-hover:hover {
+    transform: scale(1.5);
+    transition: ease-in 1s;
+    border-radius: 20px;
+}
+
+/**--------------------------- */
+
+/** Custom Navbar Bootstrap Buttons. */
+
+.Button-Custom {
+    background-color: rgba(63, 81, 90, 0.233);
+}
+
+.Button-Custom:hover {
+    box-shadow: 3px 3px 20px black;
+    letter-spacing: 3px;
+}
+
+.Button-Custom:active {
+    transform: translateY(2px)
+}

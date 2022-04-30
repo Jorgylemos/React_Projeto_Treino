@@ -1,0 +1,18 @@
+[
+    {
+        "background_images": {
+            "image_1": "teste",
+            "image_2": ""
+        },
+        "card_images": {
+            "image_1": "https://wallpapercave.com/wp/wp8038761.jpg",
+            "image_2": "https://wallpapercave.com/wp/wp8038775.jpg",
+            "image_3": "https://wallpapercave.com/wp/wp8038866.jpg"
+        },
+        "icons": {
+            "ue4_icon": "https://img.icons8.com/color/48/000000/unreal-engine.png",
+            "ptbr_icon": "https://img.icons8.com/fluency/48/000000/brazil-circular.png",
+            "eua_icon": "https://img.icons8.com/color/48/000000/usa-circular.png"
+        }
+    }
+]
